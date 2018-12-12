@@ -5,7 +5,7 @@ Software:
 -
   - Ubuntu 16.04+
   - Python 3.5+
-  - Pyserial
+  - pySerial 3.4
   
 Hardware:
 -
